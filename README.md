@@ -8,7 +8,7 @@ This package consists of two modules for [Tarantool](https://tarantool.org) data
 ## Package.swift
 
 ```swift
-.Package(url: "https://github.com/tris-foundation/tarantool.git", majorVersion: 0)
+.Package(url: "https://github.com/LeviticusNelson/tarantool.git")
 ```
 
 ## Usage
